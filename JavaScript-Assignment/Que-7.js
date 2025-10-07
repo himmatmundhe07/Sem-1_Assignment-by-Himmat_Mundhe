@@ -1,10 +1,10 @@
-let marks = 88; 
-let income = 250000;    
+let marks = 88;
+let income = 250000;
 
 if (marks >= 85 && income < 300000) {
-  console.log("Full Scholarship");
+    console.log("Full Scholarship");
 } else if (marks >= 70 && income < 500000) {
-  console.log("Half Scholarship");
+    console.log("Half Scholarship");
 } else {
-  console.log("Not eligible for scholarship");
+    console.log("Not eligible for scholarship");
 }
