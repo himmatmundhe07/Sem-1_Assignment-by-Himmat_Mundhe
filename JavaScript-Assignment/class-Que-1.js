@@ -1,0 +1,1 @@
+// write a js program to print 1 to 10 using for loop in var variable
